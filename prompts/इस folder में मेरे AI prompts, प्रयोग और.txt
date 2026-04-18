@@ -1,0 +1,2 @@
+इस folder में Python practice codes और algorithms रहेंगे।  
+मैं यहाँ data structures, functions, और debugging exercises डालूँगा।
