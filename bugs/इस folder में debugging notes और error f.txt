@@ -1,2 +1,0 @@
-इस folder में debugging notes और error fixes रहेंगे।  
-मैं यहाँ common errors और उनके solutions step-by-step लिखूँगा।

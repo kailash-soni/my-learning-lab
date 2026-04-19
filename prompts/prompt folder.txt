@@ -1,0 +1,2 @@
+This folder contains my AI prompts, experiments and creative drafts.
+I will use it to test and refine different prompt ideas.
