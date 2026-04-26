@@ -1,6 +1,6 @@
 # My Learning Lab
 
-Welcome to *My learning lab*, a growing multi‑page learning project.  
+Welcome to *My Learning Lab*, a growing multi‑page learning project.  
 This repository is designed to evolve into a structured knowledge hub, covering diverse subjects step by step.
 
 ## 🌱 Vision
@@ -29,4 +29,4 @@ Feel free to fork, explore, and suggest enhancements.
 
 ---
 
-✨ Atma is not just a repo — it’s a journey of learning, experimenting, and documenting knowledge across many topics.
+✨ My Learning lab is not just a repo — it’s a journey of learning, experimenting, and documenting knowledge across many topics.
