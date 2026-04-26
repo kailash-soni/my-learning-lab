@@ -1,0 +1,11 @@
+| Git Push Message                  | मतलब (Explanation)                          | Next Step (Action)                |
+|-----------------------------------|----------------------------------------------|-----------------------------------|
+| Enumerating objects X, done       | Git ने commits/files count करना शुरू किया      | Output पूरा होने दो                  |
+| Counting objects                  | कितने objects भेजने हैं, Git calculate कर रहा    | Wait                              |
+| Compressing objects               | Files को compress करके भेजने की तैयारी          | Wait                              |
+| Writing objects                   | Data GitHub पर भेजा जा रहा है                  | Wait                              |
+| Resolving deltas                  | Differences (deltas) resolve हो रहे हैं         | Wait                              |
+| To https://github.com/...         | Remote repo पर push हो रहा है                  | Verify कि कोई error नहीं आया      |
+| main -> main                      | Branch main successfully push हो गई          | GitHub repo खोलकर confirm करो     |
+| ! [rejected] non-fast-forward     | Local branch पीछे है, remote आगे है             | git pull --rebase या --force  |
+| error: failed to push some refs   | Push reject हुआ                              | Conflicts resolve करके दोबारा push|
